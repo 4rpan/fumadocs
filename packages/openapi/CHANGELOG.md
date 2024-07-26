@@ -1,5 +1,27 @@
 # @fuma-docs/openapi
 
+## 4.1.0
+
+### Minor Changes
+
+- abf84bb: Support to customise/disable TypeScript Response generation
+
+### Patch Changes
+
+- Updated dependencies [89190ae]
+- Updated dependencies [09c3103]
+- Updated dependencies [f868018]
+- Updated dependencies [8aebeab]
+- Updated dependencies [c684c00]
+- Updated dependencies [8aebeab]
+- Updated dependencies [0377bb4]
+- Updated dependencies [e8e6a17]
+- Updated dependencies [c901e6b]
+- Updated dependencies [89190ae]
+- Updated dependencies [4373231]
+  - fumadocs-ui@13.0.0
+  - fumadocs-core@13.0.0
+
 ## 4.0.6
 
 ### Patch Changes
